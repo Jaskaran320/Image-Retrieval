@@ -10,7 +10,7 @@ How to  access?
 access hosted website at https://digitalart.deep.moe
 
 For self hosting:
-1. Download dataset and put into dataset/extended-clean folder.
+1. Download dataset and put into dataset/extended-clean folder and go into mid-evaluation.
 2. docker compose up -d
 3. python update.py
 4. ./fix-permissions.sh
